@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "unit3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3.1-Debug-155f40017726b17a8b04.json",
+					"name" : "3.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3.2-Debug-bf0045707905dd3455b8.json",
+					"name" : "3.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3.3-Debug-75b6db03b5aa6a1927ed.json",
+					"name" : "3.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3.4-Debug-13789ce9b2980a2d9b4a.json",
+					"name" : "3.4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3.5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3.5-Debug-cd70095acd835422aff3.json",
+					"name" : "3.5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3.6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3.6-Debug-e5ff18a08d89d1527bb9.json",
+					"name" : "3.6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3.7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3.7-Debug-febec13aa907a499f673.json",
+					"name" : "3.7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Program/Clion Projects/RetestCode/unit3/cmake-build-debug",
+		"source" : "D:/Program/Clion Projects/RetestCode/unit3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

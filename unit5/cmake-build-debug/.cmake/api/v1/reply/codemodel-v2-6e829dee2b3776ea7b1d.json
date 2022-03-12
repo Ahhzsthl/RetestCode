@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "unit5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "5.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.1-Debug-bd54ce36d5216c1a9fd4.json",
+					"name" : "5.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.2-Debug-d9499617400127b2419b.json",
+					"name" : "5.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.3-Debug-c139897cb083bfdbce44.json",
+					"name" : "5.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.4-Debug-792949230639dcb7a5f0.json",
+					"name" : "5.4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.5-Debug-2e98f86fe72bc7cde373.json",
+					"name" : "5.5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.6-Debug-373bb4a5fa14efe6f0eb.json",
+					"name" : "5.6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.7-Debug-079d55d32159d51db9cf.json",
+					"name" : "5.7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Program/Clion Projects/RetestCode/unit5/cmake-build-debug",
+		"source" : "D:/Program/Clion Projects/RetestCode/unit5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

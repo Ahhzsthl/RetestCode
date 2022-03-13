@@ -19,7 +19,7 @@ int Priority(char c){   //判断运算符的优先级
 
 double GetNumber(string str, int& index){   //在字符串中获得下个数字
     double number = 0;
-    while(isdigit(str[index])){
+    while(isdigit(str[index])){     //isdigit判断是否为十进制字符串
         number = number * 10 + str[index] - '0';
         index++;
     }

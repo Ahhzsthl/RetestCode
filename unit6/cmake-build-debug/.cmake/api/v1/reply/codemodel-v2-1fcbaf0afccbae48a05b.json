@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "unit6",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "6.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.1-Debug-a4f7bbd4b9968d74ae6f.json",
+					"name" : "6.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.2-Debug-759b479b6b70b840e55a.json",
+					"name" : "6.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.3-Debug-3bc50f130a8deaa65a4c.json",
+					"name" : "6.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.4-Debug-14f3fff34f887d46e16b.json",
+					"name" : "6.4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.5-Debug-0f380385c1e6cb2c085b.json",
+					"name" : "6.5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.6-Debug-39e4f35d2cec719674c3.json",
+					"name" : "6.6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.7-Debug-6356190b477836352bad.json",
+					"name" : "6.7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.8-Debug-98468d15c825515ee0f6.json",
+					"name" : "6.8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.9-Debug-2a870c656da8e932bc15.json",
+					"name" : "6.9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Program/Clion Projects/RetestCode/unit6/cmake-build-debug",
+		"source" : "D:/Program/Clion Projects/RetestCode/unit6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

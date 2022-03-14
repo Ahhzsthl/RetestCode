@@ -17,8 +17,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a51db54e-4dfc-408a-a7e1-1f73f6197a24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/unit7.iml" afterDir="false" />
+    <list default="true" id="a51db54e-4dfc-408a-a7e1-1f73f6197a24" name="Changes" comment="unit 7">
+      <change afterPath="$PROJECT_DIR$/../unit8/.idea/unit8.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
@@ -122,11 +123,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647155352971</updated>
-      <workItem from="1647155353530" duration="18987000" />
+      <workItem from="1647155353530" duration="19256000" />
     </task>
+    <task id="LOCAL-00001" summary="unit 7">
+      <created>1647182825307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647182825307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="unit 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="unit 7" />
   </component>
 </project>

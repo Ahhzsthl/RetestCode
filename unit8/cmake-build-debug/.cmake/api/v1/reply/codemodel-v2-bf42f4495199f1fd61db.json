@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "unit8",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "8.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.1-Debug-51f446fcff7ac27b3bd1.json",
+					"name" : "8.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.2-Debug-383d1ff559b24fde4e73.json",
+					"name" : "8.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.3-Debug-828db7abad098df55057.json",
+					"name" : "8.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.4-Debug-5ac3e62223ed1845f82d.json",
+					"name" : "8.4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.5-Debug-1a8d628eafeebd04c101.json",
+					"name" : "8.5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.6-Debug-e4d48247decf300c932d.json",
+					"name" : "8.6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Program/Clion Projects/RetestCode/unit8/cmake-build-debug",
+		"source" : "D:/Program/Clion Projects/RetestCode/unit8"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

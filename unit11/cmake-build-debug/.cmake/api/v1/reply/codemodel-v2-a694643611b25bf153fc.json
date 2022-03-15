@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "unit11",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "11.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11.1-Debug-51c2c12967c5a3f13904.json",
+					"name" : "11.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11.2-Debug-53f4b63b365a313a7608.json",
+					"name" : "11.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11.3-Debug-67a0e4c7253ff64122a0.json",
+					"name" : "11.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11.4-Debug-e39705df7620d265fbcd.json",
+					"name" : "11.4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Program/Clion Projects/RetestCode/unit11/cmake-build-debug",
+		"source" : "D:/Program/Clion Projects/RetestCode/unit11"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
